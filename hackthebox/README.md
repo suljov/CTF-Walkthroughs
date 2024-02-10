@@ -1,1 +1,1 @@
-![img](https://doimages.nyc3.cdn.digitaloceanspaces.com/hackthebox-logo@4x.png)
+![img]([https://doimages.nyc3.cdn.digitaloceanspaces.com/hackthebox-logo@4x.png](https://images.credly.com/images/3dcd637f-f94a-4405-9448-0409361214da/blob.png)https://images.credly.com/images/3dcd637f-f94a-4405-9448-0409361214da/blob.png)
