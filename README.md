@@ -8,3 +8,4 @@ This is my collection of CTF boxes i have done. NOTE that this is not every box 
 
 ### Sites
 * [Vulnlab](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab)
+* [Hackthebox](https://github.com/suljov/CTF-Walkthroughs/tree/main/hackthebox)
