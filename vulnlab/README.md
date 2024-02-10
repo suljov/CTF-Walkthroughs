@@ -16,7 +16,7 @@ You will get access to a private lab area on the Discord server, from which you 
 I started on Vulnlab 2024-02-07 and so far i love it. The boxes are well made and they are realistic. For me the labs are worth every penny.  
 
 
-### Boxes
+### Box walkthroughs
 * [Baby](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/baby)
 * [Data](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Data)
 * [Feedback](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Feedback)
