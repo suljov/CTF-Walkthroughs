@@ -14,3 +14,6 @@ You will get access to a private lab area on the Discord server, from which you 
 #### My thoughts
 
 I started on Vulnlab 2024-02-07 and so far i love it. The boxes are well made and they are realistic. For me the labs are worth every penny.  
+
+
+### Boxes
