@@ -7,7 +7,7 @@
 
 Vulnlab offers a pentesting & red teaming lab environment with 80+ vulnerable machines, ranging from standalone machines to big Active Directory environments with multiple forests that require bypassing modern defenses. The labs have various difficulties from easy to advanced and come with guidance in the form of notes, hints & walkthroughs. New content gets added on a regular basis.
 
-You will get access to a private lab area on the Discord server, from which you can generate VPN packs, control machines and submit flags. You are welcome to create public walkthroughs or stream machine solutions. 
+You will get access to a private lab area on the Discord server, from which you can generate VPN packs, control machines and submit flags.
 
 
 
