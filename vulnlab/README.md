@@ -27,3 +27,4 @@ I started on Vulnlab 2024-02-07 and so far i love it. The boxes are well made an
 * [Baby2](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Baby2)
 * [Delegate](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Delegate)
 * [Breach](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Breach)
+* [Sync](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Sync)
