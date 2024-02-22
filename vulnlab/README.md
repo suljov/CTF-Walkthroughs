@@ -13,7 +13,7 @@ You will get access to a private lab area on the Discord server, from which you 
 
 #### My thoughts
 
-I started on Vulnlab 2024-02-07 and so far i love it. The boxes are well made and they are realistic. For me the labs are worth every penny. Vulnlab is the GOAT and the best place!! atleast for me. I learn so much on every box, even if its small stuff it nice to learn something cool and new. 
+I started on Vulnlab 2024-02-07 and so far i love it. The boxes are well made and they are realistic. Tho in the nature of being realistic it makes it a bit harder (for me atleast) but gives much more power in learning the concetpts that are in each box.  For me the labs are worth every penny. Vulnlab is the GOAT and the best place!! atleast for me. I learn so much on every box, even if its small stuff it nice to learn something cool and new. 
 
 
 ### Box walkthroughs
