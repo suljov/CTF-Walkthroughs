@@ -17,15 +17,16 @@ I started on Vulnlab 2024-02-07 and so far i love it. The boxes are well made an
 
 
 ### Box walkthroughs
-* [Baby](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/baby)
-* [Data](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Data)
-* [Feedback](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Feedback)
-* [Forgotten](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Forgotten)
-* [Lock](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Lock)
-* [Retro](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Retro)
-* [Escape](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Escape)
-* [Baby2](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Baby2)
-* [Delegate](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Delegate)
-* [Breach](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Breach)
-* [Sync](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Sync)
-* [Bamboo](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Bamboo)
+* [Baby](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/baby) - 🪟 - Easy
+* [Data](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Data) - 🐧 - Easy
+* [Escape](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Escape) - 🪟 - Easy
+* [Feedback](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Feedback)  - 🐧 - Easy
+* [Forgotten](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Forgotten) - 🐧
+* [Lock](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Lock) - 🪟 - Easy
+* [Retro](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Retro) - 🪟 - Easy
+* [Sync](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Sync) - 🐧 - Easy
+* [Baby2](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Baby2) - 🪟 - Medium
+* [Breach](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Breach) - 🪟 - Medium
+* [Bamboo](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Bamboo) - 🪟 - Medium
+* [Delegate](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Delegate) - 🪟 - Medium
+
