@@ -50,6 +50,7 @@ Send LDAP reference result for a redirecting to http://10.8.1.92:8080/Exploit.cl
 
 
 ![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Feedback/Screenshots/Pasted%20image%2020240209213453.png)
+
 and we got shell
 
 ![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Feedback/Screenshots/Pasted%20image%2020240209213559.png)
