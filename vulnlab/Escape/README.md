@@ -47,6 +47,7 @@ after some looking we found that the RDP+ is installed
 we found a secret folder that have credentials that is stored but is encoded. 
 
 ![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Escape/Screenshots/Pasted%20image%2020240216234547.png)
+
 this can be used for RDP+ but after some testing we cant use it either on the target nor our own windows dev machine. but in our own machine we can get the password to show in the RDP+ using a tool called `BulletsPassView`
 
 https://www.nirsoft.net/utils/bullets_password_view.html
