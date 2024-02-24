@@ -98,7 +98,7 @@ Retype new SMB password:
 Password changed for user Caroline.Robinson
 ```
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/baby/Pasted%20image%2020240210152846.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/baby/Screenshots/Pasted%20image%2020240210152846.png)
 
 
 
