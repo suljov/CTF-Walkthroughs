@@ -350,7 +350,7 @@ python3 exploit.py --help
 
 
 
-after [[01 - Directory Traversal and Arbitrary File Read]]
+after the "Directory Traversal and Arbitrary File Read"
 a sql file was found with users and passwords 
 
 ![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208193918.png)
