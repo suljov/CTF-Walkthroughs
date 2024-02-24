@@ -524,8 +524,7 @@ root      1637  0.0  0.8 712860  8096 ?        Sl   20:11   0:02 /snap/docker/11
 
 we can get to root on that container and mount the host drive to be able to get root
 
-![[Pasted image 20240208230031.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208230031.png)
 
 
 ```
@@ -535,8 +534,7 @@ we can get to root on that container and mount the host drive to be able to get 
 ```
 
 
-![[Pasted image 20240208230129.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208230129.png)
 
 now can just go right in
 
@@ -562,8 +560,7 @@ root
 ```
 
 
-![[Pasted image 20240208230208.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208230208.png)
 
 
 
