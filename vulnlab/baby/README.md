@@ -5,6 +5,7 @@
 # Foothold
 
 
+We see smb and we enum it
 
 
 ```
