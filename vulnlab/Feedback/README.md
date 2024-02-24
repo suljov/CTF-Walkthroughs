@@ -5,6 +5,7 @@
 website seesm to be vulnerable for log5j
 
 found in source code 
+
 ![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Feedback/Screenshots/Pasted%20image%2020240209210541.png)
 
 
