@@ -153,8 +153,7 @@ User claims unknown.
 
 ```
 
-![[Pasted image 20240210154302.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/baby/Pasted%20image%2020240210154302.png)
 
 ```
 *Evil-WinRM* PS C:\Users\Caroline.Robinson\Documents> cd /
@@ -399,6 +398,5 @@ Ethernet adapter Ethernet 2:
 
 ```
 
-
-![[Pasted image 20240210153705.png]]
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/baby/Pasted%20image%2020240210153705.png)
 
