@@ -141,8 +141,7 @@ grafana:x:472:0:Linux User,,,:/home/grafana:/sbin/nologin
 ```
 
 
-![[Pasted image 20240208191030.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208191030.png)
 
 
 
@@ -347,16 +346,14 @@ python3 exploit.py --help
 
 
 
-![[Pasted image 20240208193502.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208193502.png)
 
 
 
 after [[01 - Directory Traversal and Arbitrary File Read]]
 a sql file was found with users and passwords 
 
-![[Pasted image 20240208193918.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208193918.png)
 
 users: 
 
@@ -464,8 +461,7 @@ sha256:10000:TENCaGR0SldqbA==:3GvszLtX002vSk45HSAV0zUMYN82COnpm1KR5H8+XNOdFWviIH
 ```
 
 
-![[Pasted image 20240208220522.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208220522.png)
 
 
 ```
@@ -488,16 +484,14 @@ Cracking performance lower than expected?
 ```
 
 
-![[Pasted image 20240208220604.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208220604.png)
 
 
 
 no we have shell
 
 
-![[Pasted image 20240208220800.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208220800.png)
 
 
 
@@ -517,8 +511,7 @@ User boris may run the following commands on ip-10-10-10-11:
     (root) NOPASSWD: /snap/bin/docker exec *
 ```
 
-![[Pasted image 20240208225740.png]]
-
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208225740.png)
 
 
 after enumerating and finding the docker container name
