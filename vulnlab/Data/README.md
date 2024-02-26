@@ -514,8 +514,8 @@ User boris may run the following commands on ip-10-10-10-11:
 ![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Data/Screenshots/Pasted%20image%2020240208225740.png)
 
 
-after enumerating and finding the docker container name
-linpeash
+after enumerating and finding the docker container 
+
 ```
 <SNIP>
 root      1637  0.0  0.8 712860  8096 ?        Sl   20:11   0:02 /snap/docker/1125/bin/containerd-shim-runc-v2 -namespace moby -id e6ff5b1cbc85cdb2157879161e42a08c1062da655f5a6b7e24488342339d4b81 -address /run/snap.docker/containerd/containerd.sock
