@@ -12,6 +12,7 @@ with no creds we can just try to login to rdp and we see this
 we get in but for the looks of it is a "kiosk computer". 
 
 ![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab/Escape/Screenshots/Pasted%20image%2020240216233956.png)
+
 we can barley see or do anything. 
 
 with some basic "kiosk escape tricks" we can a shell. 
