@@ -32,5 +32,6 @@ I started on Vulnlab 2024-02-07 and so far i love it. The boxes are well made an
 | [Bamboo](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Bamboo) | 🐧 | Medium |
 | [Breach](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Breach) | 🪟 | Medium |
 | [Delegate](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Delegate) | 🪟 | Medium |
-| [Job](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Job) | 🪟 | Medium |
+| [Job](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Job) | 🪟 | Medium | 
+| [Media](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Media) | 🪟 | Medium |
 
