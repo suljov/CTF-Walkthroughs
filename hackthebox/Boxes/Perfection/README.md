@@ -40,19 +40,19 @@ after encoding
 ```
 
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180410.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180520.png)
 
 and we got 49 meaning it works. now we can use `system` to execute commands
 
 we make a payoad to download and execute a bash script to get shell
 
-![image]()
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180629.png)
 
 
 and we have shell
 
 
-![image]()
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180800.png)
 
 
 # Privesc
