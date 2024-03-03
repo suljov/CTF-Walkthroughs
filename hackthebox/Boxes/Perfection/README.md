@@ -9,12 +9,11 @@ in the web we see the calculator for the Grade Calculator
 ![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303175253.png)
 after testing we see we might get some kind of os command injection
 
-![[Pasted image 20240303175336.png]]
-
+![image]()
 
 looking into `WEBrick` a little bit it might be ruby or some kind but not sure. we try some filter bypass and found `%0a` will kinda break it and we are able to use more characters to get a working payload 
 
-![[Pasted image 20240303180142.png]]
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303175336.png)
 
 to make a payload we find its a `SSTI` and use a payload for that.
 
@@ -28,7 +27,7 @@ this one is just to test `SSTI`
 
 but i dont work
 
-![[Pasted image 20240303180520.png]]
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180142.png)
 
 we might need to encode some stuff.
 
@@ -41,19 +40,19 @@ after encoding
 ```
 
 
-![[Pasted image 20240303180629.png]]
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180410.png)
 
 and we got 49 meaning it works. now we can use `system` to execute commands
 
 we make a payoad to download and execute a bash script to get shell
 
-![[Pasted image 20240303180800.png]]
+![image]()
 
 
 and we have shell
 
 
-![[Pasted image 20240303180830.png]]
+![image]()
 
 
 # Privesc
@@ -83,7 +82,7 @@ inside our users home folder we see the folder `Migration` that as a file called
 
 after downloading it we see its the hashes for the users
 
-![[Pasted image 20240303181123.png]]
+![image]()
 
 so now we have a hash of the user susan. we now get a script that will crack this hash since we know what the password will look like
 
@@ -124,9 +123,9 @@ else:
 
 after a while we see the hash was cracked
 
-![[Pasted image 20240303181749.png]]
+![image]()
 
 
 we now use that password and login as root
 
-![[Pasted image 20240303181448.png]]
+![image]()
