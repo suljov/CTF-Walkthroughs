@@ -6,7 +6,7 @@ we see their is only ssh and the web.
 
 in the web we see the calculator for the Grade Calculator
 
-[!image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303175253.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303175253.png)
 after testing we see we might get some kind of os command injection
 
 ![[Pasted image 20240303175336.png]]
