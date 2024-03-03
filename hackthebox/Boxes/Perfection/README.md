@@ -40,7 +40,7 @@ after encoding
 ```
 
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180520.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180629.png)
 
 and we got 49 meaning it works. now we can use `system` to execute commands
 
@@ -82,7 +82,7 @@ inside our users home folder we see the folder `Migration` that as a file called
 
 after downloading it we see its the hashes for the users
 
-![image]()
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303181123.png)
 
 so now we have a hash of the user susan. we now get a script that will crack this hash since we know what the password will look like
 
@@ -123,9 +123,9 @@ else:
 
 after a while we see the hash was cracked
 
-![image]()
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303181749.png)
 
 
 we now use that password and login as root
 
-![image]()
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303181448.png)
