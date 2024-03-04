@@ -9,8 +9,6 @@ in the web we see the calculator for the Grade Calculator
 ![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303175253.png)
 after testing we see we might get some kind of os command injection
 
-![image]()
-
 looking into `WEBrick` a little bit it might be ruby or some kind but not sure. we try some filter bypass and found `%0a` will kinda break it and we are able to use more characters to get a working payload 
 
 ![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303175336.png)
