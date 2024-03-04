@@ -25,7 +25,7 @@ this one is just to test `SSTI`
 
 but i dont work
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180142.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180520.png)
 
 we might need to encode some stuff.
 
