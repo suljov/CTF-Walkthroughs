@@ -15,7 +15,7 @@ after testing we see we might get some kind of os command injection
 
 looking into `WEBrick` a little bit it might be ruby or some kind but not sure. we try some filter bypass and found `%0a` will kinda break it and we are able to use more characters to get a working payload 
 
-![image]()
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180142.png)
 
 to make a payload we find its a `SSTI` and use a payload for that.
 
