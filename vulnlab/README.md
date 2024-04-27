@@ -24,14 +24,5 @@ I started on Vulnlab 2024-02-07 and so far i love it. The boxes are well made an
 | [Data](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Data) | 🐧 | Easy |
 | [Escape](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Escape) | 🪟 | Easy |
 | [Feedback](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Feedback) | 🐧 | Easy |
-| [Forgotten](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Forgotten) | 🐧 | Easy |
-| [Lock](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Lock) | 🪟 | Easy |
-| [Retro](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Retro) | 🪟 | Easy |
-| [Sync](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Sync) | 🐧 | Easy |
-| [Baby2](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Baby2) | 🪟 | Medium |
-| [Bamboo](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Bamboo) | 🐧 | Medium |
-| [Breach](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Breach) | 🪟 | Medium |
-| [Delegate](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Delegate) | 🪟 | Medium |
-| [Job](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Job) | 🪟 | Medium | 
-| [Media](https://github.com/suljov/CTF-Walkthroughs/tree/main/vulnlab/Boxes/Media) | 🪟 | Medium |
+
 
