@@ -19,7 +19,7 @@ TryHackme was the place i started,
 
 | Name | System | Difficulty |
 | ---- | ---- | ---- |
-| [Writeup](https://github.com/suljov/CTF-Walkthroughs/blob/main/tryhackme/THM%20Opacity_report.pdf) | 🐧 | Easy |
+| [Opacity](https://github.com/suljov/CTF-Walkthroughs/blob/main/tryhackme/THM%20Opacity_report.pdf) | 🐧 | Easy |
 
 
 
