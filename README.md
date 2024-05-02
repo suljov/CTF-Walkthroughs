@@ -11,4 +11,4 @@ NOTE that this is not every box i have done. i started this repo 2024-02-10 and 
 ### Sites
 * [Vulnlab](https://github.com/suljov/CTF-Walkthroughs/blob/main/vulnlab)
 * [Hackthebox](https://github.com/suljov/CTF-Walkthroughs/tree/main/hackthebox)
-* [TryHackme](https://github.com/suljov/CTF-Walkthroughs/tree/main/tryhackme)
+* [TryHackMe](https://github.com/suljov/CTF-Walkthroughs/tree/main/tryhackme)
