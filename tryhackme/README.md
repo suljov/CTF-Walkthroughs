@@ -4,13 +4,13 @@
 
 ### Cyber Security Training
 
-TryHackme was the place i started, 
+TryHackme was the place i started, this is where i learned to hack. Its a good platform to learn about commmon vulnerabilities but also how the hacking process works and how to find stuff. They hold your hand and teach you the basic, but they also have good CTF boxes and chains if you pay for it. 
 
 
 
 
 #### My thoughts
-
+I loved it, its perfect for beginner but also pro hackers to learn new stuff that has come out or testing their skills on their CTF boxes. 
 
 
 
