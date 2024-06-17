@@ -22,5 +22,4 @@ I like HackTheBox, the CTF boxes are good even tho some are not that good and ve
 
 | Name | System | Difficulty |
 | ---- | ---- | ---- |
-| [Perfection](https://github.com/suljov/CTF-Walkthroughs/tree/main/hackthebox/Boxes/Perfection) | 🐧 | Easy |
 | [Crafty](https://github.com/suljov/CTF-Walkthroughs/tree/main/hackthebox/Boxes/Crafty) | 🪟 | EASY |
