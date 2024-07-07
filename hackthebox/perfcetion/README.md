@@ -10,12 +10,12 @@ in the web we see the calculator for the Grade Calculator
 
 after testing we see we might get some kind of os command injection
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303175336.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/perfcetion/Screenshots/Pasted%20image%2020240303175336.png)
 
 
 looking into `WEBrick` a little bit it might be ruby or some kind but not sure. we try some filter bypass and found `%0a` will kinda break it and we are able to use more characters to get a working payload 
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180142.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/perfcetion/Screenshots/Pasted%20image%2020240303180142.png)
 
 to make a payload we find its a `SSTI` and use a payload for that.
 
@@ -29,7 +29,7 @@ this one is just to test `SSTI`
 
 but i dont work
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180520.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/perfcetion/Screenshots/Pasted%20image%2020240303180520.png)
 
 we might need to encode some stuff.
 
@@ -48,13 +48,13 @@ and we got 49 meaning it works. now we can use `system` to execute commands
 
 we make a payoad to download and execute a bash script to get shell
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180800.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/perfcetion/Screenshots/Pasted%20image%2020240303180800.png)
 
 
 and we have shell
 
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180830.png)
+![image]([https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303180830.png](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/perfcetion/Screenshots/Pasted%20image%2020240303180830.png))
 
 
 # Privesc
@@ -84,7 +84,7 @@ inside our users home folder we see the folder `Migration` that as a file called
 
 after downloading it we see its the hashes for the users
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303181123.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/perfcetion/Screenshots/Pasted%20image%2020240303181123.png)
 
 so now we have a hash of the user susan. we now get a script that will crack this hash since we know what the password will look like
 
@@ -125,9 +125,9 @@ else:
 
 after a while we see the hash was cracked
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303181749.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/perfcetion/Screenshots/Pasted%20image%2020240303181749.png)
 
 
 we now use that password and login as root
 
-![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/Boxes/Perfection/Screenshots/Pasted%20image%2020240303181448.png)
+![image](https://github.com/suljov/CTF-Walkthroughs/blob/main/hackthebox/perfcetion/Screenshots/Pasted%20image%2020240303181448.png)
